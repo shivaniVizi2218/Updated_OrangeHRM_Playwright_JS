@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Feb 12 19:58:36 IST 2024","Mon Feb 12 19:58:53 IST 2024","17250","chromium","orangeHRMTest.spec.js","","","","TC_004 - Create User",""
+"passed","Mon Feb 12 19:58:53 IST 2024","Mon Feb 12 19:59:11 IST 2024","17588","chromium","orangeHRMTest.spec.js","","","","TC_008 - Add Employee Scenario in PIM Interface",""

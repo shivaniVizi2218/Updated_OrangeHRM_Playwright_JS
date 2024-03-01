@@ -1,0 +1,33 @@
+{
+  "reset_password": {
+    "title": "Reset Password link sent successfully"
+  },
+
+  "url": {
+    "buzz": "https://opensource-demo.orangehrmlive.com/web/index.php/buzz/viewBuzz",
+    "add_employee": "https://opensource-demo.orangehrmlive.com/web/index.php/pim/addEmployee"
+  },
+
+  "create_user": {
+    "name_hint": "Pooja",
+    "employee_name": "Pooja Dani Sharma",
+    "employee_username": "@AdminUser123",
+    "password": "User123"
+  },
+
+  "buzz_page": {
+    "playwright_text": "Let's explore Playwright",
+    "comment": "It's an automation tool",
+    "edit_comment": "Playwright enables reliable end-to-end testing for modern web apps."
+  },
+
+  "pim_page": {
+    "add_employee": {
+      "first_name": "Shivani",
+      "last_name": "V",
+      "full_name": "Shivani V",
+      "userName": "adminShivani",
+      "password": "shivi123"
+    }
+  }
+}
